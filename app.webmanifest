@@ -4,6 +4,7 @@
   "display": "standalone",
   "start_url": "./?utm_source=pwa",
   "scope": "./",
+  "theme_color": "orange",
   "icons": [
     {
       "src": "icons/icon-1024.png",

@@ -1,0 +1,7 @@
+{
+  "name": "Brandon's Activities: My PWA",
+  "short_name": "Activities",
+  "display": "standalone",
+  "start_url": "./?utm_source=pwa",
+  "scope": "./"
+}

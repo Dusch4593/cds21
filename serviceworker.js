@@ -14,6 +14,20 @@ self.addEventListener('install', event => {
     })
 })
 
+// Cache First
 self.addEventListener('fetch', event => {
+  event.respondWith(
+    caches.match(event.request) // searching the cache  
+    .then(res => {
+      let fetchPromise = fetch(event.request)
+        .then(networkRes => {
+          caches.open(assetsName).then(cache => {
+            
+          })
+        })
+        if(res) return res;
 
+        return fetch(event.request)
+      })
+  )
 })

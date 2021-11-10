@@ -4,12 +4,17 @@
   "display": "standalone",
   "start_url": "./?utm_source=pwa",
   "scope": "./",
-  "theme_color": "orange",
+  "description": "This app will let you define activities.",
   "icons": [
     {
       "src": "icons/icon-1024.png",
       "sizes": "1024x1024",
       "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      
     }
   ]
 }

@@ -1,5 +1,5 @@
 # cds21
-PWA Workshop at Chrome Dev Summit 2021, given by [Maxiliano Firtman](https://twitter.com/firt) on November 10th, 2021.
+PWA Workshop at Chrome Dev Summit 2021, given by [Maximiliano Firtman](https://twitter.com/firt) on November 10th, 2021.
 
 This is the project we'll be coding during the workshop.
 

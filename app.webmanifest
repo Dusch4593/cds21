@@ -5,6 +5,7 @@
   "start_url": "./?utm_source=pwa",
   "scope": "./",
   "description": "This app will let you define activities.",
+  "theme_color": "orange",
   "icons": [
     {
       "src": "icons/icon-1024.png",
